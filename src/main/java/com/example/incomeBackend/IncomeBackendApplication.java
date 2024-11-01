@@ -1,0 +1,11 @@
+package com.example.incomeBackend;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class IncomeBackendApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(IncomeBackendApplication.class, args);
+    }
+}
